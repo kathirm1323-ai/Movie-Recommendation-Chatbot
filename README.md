@@ -1,6 +1,5 @@
 # CineMatch - Movie Recommendation Chatbot 🎬
 
-![CineMatch Demo Animation](assets/demo.webp)
 
 **[🚀 View the Live Demo Page Here!](http://127.0.0.1:5001/)**
 
