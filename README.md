@@ -1,5 +1,7 @@
 # CineMatch - Movie Recommendation Chatbot 🎬
 
+![CineMatch Demo Animation](assets/demo.webp)
+
 **[🚀 View the Live Demo Page Here!](https://kathirm1323-ai.github.io/Movie-Recommendation-Chatbot/)**
 
 CineMatch is an intelligent, interactive movie recommendation chatbot built with Flask. It allows users to discover movies by selecting their preferred film industry (Kollywood, Hollywood, or Bollywood) and genre (Action, Sci-Fi, Drama, Romance).
